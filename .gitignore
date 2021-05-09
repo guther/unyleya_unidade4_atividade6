@@ -34,3 +34,7 @@ build/
 
 ### Word temporary ###
 ~$*.doc*
+
+### temporary files ###
+~*.temp
+~*.tmp
